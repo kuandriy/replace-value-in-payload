@@ -3,7 +3,9 @@
 # Instractions
 - Clone repo
 - [npm install] install dependencies 
-- npm start to run Node server
-- use included Postman collection to execute queries 
+- npm start - to run Node server
+- By default server is running on localhost port 8080
+- Endpoint implemented POST localhost:8080/replace 
+- use included Postman collection to execute queries and test functionality
 - [npm test] run to execute unit test 
 
